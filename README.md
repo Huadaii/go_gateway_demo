@@ -54,6 +54,12 @@ http://127.0.0.1:8880/swagger/index.html#/
 隔离，即划边界  
 解耦，即抽组建  
 脚手架，即外层拓展  
+  
+实现功能:  
+负载均衡  
+URL进入改写  
+服务端发现  
+限流、熔断  
 
 ![v2-6a64cad6674b6cc3e01adfd2225b59b3_r](https://user-images.githubusercontent.com/51690238/121619237-ddce6f00-ca9a-11eb-930a-d3c99dc160ad.jpg)  
 

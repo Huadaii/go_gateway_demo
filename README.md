@@ -46,3 +46,8 @@ http://127.0.0.1:8880/swagger/index.html#/
 2. Mysql     Gorm控制  
 3. Vue       element  
 4. 反向代理  reverse_proxy  
+  
+  
+  
+###########V1.0.0 运行截图  
+![login](https://user-images.githubusercontent.com/51690238/121618713-deb2d100-ca99-11eb-9a41-0b827113ea33.PNG)

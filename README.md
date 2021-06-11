@@ -19,11 +19,11 @@ go run main.go -configs=./conf/dev/ -endpoint=server
 http://127.0.0.1:8880/swagger/index.html#/
 
 ###########目录结构描述
-├── Readme.md                   // help
-├── cert_file                   // Https证书
-├── conf/dev                    // 默认配置
-├── controller                  // 控制层
-├── dao                         // 数据访问层
+├── Readme.md                   // help  
+├── cert_file                   // Https证书  
+├── conf/dev                    // 默认配置  
+├── controller                  // 控制层  
+├── dao                         // 数据访问层  
 ├── docs                        // Swagger目录
 ├── dto                         // 传输层
 ├── gorm                        // gorm包

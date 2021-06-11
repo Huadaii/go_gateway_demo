@@ -50,4 +50,13 @@ http://127.0.0.1:8880/swagger/index.html#/
   
   
 ###########V1.0.0 运行截图  
-![login](https://user-images.githubusercontent.com/51690238/121618713-deb2d100-ca99-11eb-9a41-0b827113ea33.PNG)
+//管理员登陆  
+![login](https://user-images.githubusercontent.com/51690238/121618713-deb2d100-ca99-11eb-9a41-0b827113ea33.PNG)  
+//Swagger接口文档服务  
+![swagger](https://user-images.githubusercontent.com/51690238/121618831-191c6e00-ca9a-11eb-8966-98a54898aedf.PNG)  
+//服务列表  
+![dashboard](https://user-images.githubusercontent.com/51690238/121618790-06a23480-ca9a-11eb-98e3-a3ceccf64479.PNG)  
+//服务统计  
+![服务统计](https://user-images.githubusercontent.com/51690238/121618876-2df90180-ca9a-11eb-889f-1174055077aa.PNG)  
+
+
